@@ -39,7 +39,8 @@ Welcome to my GitHub profile!
 
 ### 📫 How to reach me  
 - **Email:** [imtarunchaudharyy@gmail.com](mailto:imtarunchaudharyy@gmail.com)  
-- **LinkedIn:** [Tarun Kumar](https://www.linkedin.com/in/imtarunchaudharyy/)  
+- **LinkedIn:** [Tarun Kumar](https://www.linkedin.com/in/iamtarunchaudhary/)
+- **Whatsapp:** [9027806285](https://wa.me/message/U377ITY53ZMTP1)
 
 ---
 
