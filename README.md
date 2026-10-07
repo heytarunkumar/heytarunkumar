@@ -1,13 +1,21 @@
 # Hello Folks 👋, I'm Tarun Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Technology+Entrepreneur;AI%2FML+Engineer+%7C+Researcher;Python+Developer+%7C+Full-Stack+Developer;Founder+%7C+Community+Leader;Build.+Research.+Innovate.+Impact.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tarun%20Kumar&fontAlign=50&fontAlignY=40&fontSize=55&desc=AI%20Engineer%20%7C%20Entrepreneur%20%7C%20Researcher&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heytarunkumar&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/heytarunkumar?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/heytarunkumar?label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Technology+Entrepreneur;AI%2FML+Engineer+%7C+Researcher;Python+Developer+%7C+Full-Stack+Developer;Founder+%7C+Community+Leader;Building+Intelligent+Systems+%F0%9F%A4%96;Researching+Emerging+Technologies+%F0%9F%94%AC;Turning+Ideas+Into+Products+%F0%9F%9A%80;Build.+Research.+Innovate.+Impact.+%F0%9F%8C%8D" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heytarunkumar&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/heytarunkumar?label=FOLLOWERS&style=for-the-badge&color=36BCF7" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/heytarunkumar?label=STARS&style=for-the-badge&color=36BCF7" alt="Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f6e7e6f2-0b7d-4d2d-b2d7-6e8c8c6c3b6e.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
@@ -38,70 +46,80 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heytarunkumar&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytarunkumar&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heytarunkumar&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytarunkumar&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heytarunkumar&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heytarunkumar&theme=transparent&hide_border=true&mode=weekly" width="70%"/>
 </p>
 
 ---
 
 # 🎯 Expertise Areas
 
-### 🤖 Artificial Intelligence & Machine Learning
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Generative AI
-* Natural Language Processing
-* Computer Intelligence
-* Predictive Analytics
-* Explainable AI
-* AI Agents
-* Intelligent Automation
-* Model Evaluation
-* Feature Engineering
-* Data Preprocessing
+<br>
 
-### 💻 Software Engineering
+`Artificial Intelligence` `Machine Learning` `Deep Learning`
 
-* Full-Stack Development
-* Backend Development
-* API Development
-* REST APIs
-* SaaS Development
-* System Design
-* Software Architecture
-* Automation
-* Database Engineering
+`Neural Networks` `Generative AI` `NLP`
 
-### 🔐 Security & Infrastructure
+`Predictive Analytics` `Explainable AI` `AI Agents`
 
-* Cybersecurity
-* Network Engineering
-* Linux
-* Cloud Technologies
-* DevOps
-* Application Security
+`Intelligent Automation` `Feature Engineering`
 
-### 🌐 Community & Leadership
+`Data Preprocessing` `Model Evaluation`
 
-* Developer Communities
-* Technical Workshops
-* Hackathons
-* Mentorship
-* DSA Sessions
-* AI/ML Workshops
-* Technology Events
-* Open-Source Collaboration
-* Entrepreneurship
+</details>
+
+<details>
+<summary><b>💻 Software Engineering</b></summary>
+
+<br>
+
+`Full-Stack Development` `Backend Development`
+
+`API Development` `REST APIs` `SaaS`
+
+`System Design` `Software Architecture`
+
+`Automation` `Database Engineering`
+
+</details>
+
+<details>
+<summary><b>🔐 Security & Infrastructure</b></summary>
+
+<br>
+
+`Cybersecurity` `Network Engineering`
+
+`Linux` `Cloud` `DevOps`
+
+`Application Security`
+
+</details>
+
+<details>
+<summary><b>🌐 Community & Leadership</b></summary>
+
+<br>
+
+`Developer Communities` `Technical Workshops`
+
+`Hackathons` `Mentorship` `DSA Sessions`
+
+`AI/ML Workshops` `Technology Events`
+
+`Open Source` `Entrepreneurship`
+
+</details>
 
 ---
 
@@ -125,19 +143,28 @@
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs&perline=3" />
 </p>
 
-`REST APIs` `API Integration` `Backend Development` `Automation`
+<p align="center">
+  <code>REST APIs</code>
+  <code>API Integration</code>
+  <code>Backend Development</code>
+  <code>Automation</code>
+</p>
 
 ### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=3" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
 </p>
 
-`TensorFlow` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks` `NLP`
-
-### 📊 Data & AI Tools
-
-`NumPy` `Pandas` `SHAP` `SMOTE` `Jupyter` `Google Colab`
+<p align="center">
+  <code>TensorFlow</code>
+  <code>Scikit-learn</code>
+  <code>XGBoost</code>
+  <code>Random Forest</code>
+  <code>SVM</code>
+  <code>Neural Networks</code>
+  <code>NLP</code>
+</p>
 
 ### 🗄️ Databases
 
@@ -154,6 +181,10 @@
 ---
 
 # 🧠 AI / ML Development
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Preprocessing+%E2%86%92+Feature+Engineering;Model+Development+%E2%86%92+Evaluation;Explainability+%E2%86%92+API+Integration;Experimentation+%E2%86%92+Deployment;Notebook+%E2%86%92+Production+%F0%9F%9A%80" alt="AI Development Pipeline"/>
+</p>
 
 I work on AI/ML systems across the complete development lifecycle:
 
@@ -176,17 +207,23 @@ I'm particularly interested in taking AI models beyond notebooks and integrating
 
 ## 🏥 AI-HealthGuard
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=AI-powered+Healthcare+Risk+Prediction;Machine+Learning+%7C+Explainable+AI;XGBoost+%7C+Random+Forest+%7C+SVM+%7C+Neural+Networks" alt="AI-HealthGuard Animation"/>
+</p>
+
 An AI-powered **ischemic heart disease risk prediction system** focused on applying machine learning to healthcare risk assessment.
 
 ### Technologies & Concepts
 
 `Python` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks` `SHAP` `SMOTE`
 
-The project explores predictive modeling, model evaluation, explainability, and practical AI application development.
-
 ---
 
 ## 🧠 AI Mental Health Chatbot
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=NLP+%7C+Emotion+Analysis+%7C+Generative+AI;OpenAI+API+%7C+Gemini+API;Context-Aware+Conversational+AI" alt="Chatbot Animation"/>
+</p>
 
 An AI-powered conversational application exploring **NLP, Generative AI, emotion analysis, and AI APIs**.
 
@@ -194,46 +231,37 @@ An AI-powered conversational application exploring **NLP, Generative AI, emotion
 
 `Python` `NLP` `OpenAI API` `Gemini API` `Emotion Analysis` `Text-to-Speech`
 
-The project explores conversational AI and intelligent user interaction through modern AI technologies.
-
 ---
 
 # 🏢 Organizations
 
-## Binarize Technologies
+### 🚀 Binarize Technologies
 
 **Founder, Chairman & CEO**
 
 Technology initiatives focused on:
 
-* AI & Automation
-* SaaS
-* IT Solutions
-* IT Consulting
-* Business Consulting
-* Software Development
+`AI & Automation` `SaaS` `IT Solutions`
+
+`IT Consulting` `Business Consulting` `Software Development`
 
 ---
 
-## OrigoHOST
+### 🌐 OrigoHOST
 
 **Founder & President**
 
 A technology community with **5,000+ members**, focused on:
 
-* Developer education
-* Practical learning
-* Mentorship
-* Research
-* Open collaboration
-* Knowledge sharing
-* Leadership
-* Entrepreneurship
-* Innovation
+`Developer Education` `Practical Learning` `Mentorship`
+
+`Research` `Open Collaboration` `Knowledge Sharing`
+
+`Leadership` `Entrepreneurship` `Innovation`
 
 ---
 
-## Aadvick Foundations
+### 🤝 Aadvick Foundations
 
 **Co-Founder & Vice President**
 
@@ -242,6 +270,10 @@ Working toward initiatives involving **social welfare and community development*
 ---
 
 # 🏆 Community & Leadership
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=HackFinity+1.0;TechFest+TOONAV+2K24;0Day+Alliance;AI%2FML+Workshops;Developer+Communities;Hackathons+%26+Mentorship" alt="Community Animation"/>
+</p>
 
 I've been involved in organizing and contributing to technology initiatives including:
 
@@ -268,15 +300,11 @@ I also write and publish work around **technology, innovation, agriculture, deci
 
 Explores the intersection of **algorithms, technology, AI, and agriculture** and the potential of computational approaches in modern agricultural systems.
 
----
-
 ### 🏹 Arjuna: The Pause Before Action
 
 **Amazon Kindle — January 2026**
 
 A reflective work exploring **decision-making, self-awareness, action, consequence, and thoughtful thinking**.
-
----
 
 ### 💡 What Actually Worked Vs What Sounded Good
 
@@ -294,28 +322,17 @@ A practical reflection on the difference between **ideas that sound good and app
 
 Areas of interest:
 
-`Computer Science` `Artificial Intelligence` `Machine Learning` `Software Engineering` `DSA` `Databases` `Networks` `Cybersecurity`
+`Computer Science` `Artificial Intelligence` `Machine Learning`
+
+`Software Engineering` `DSA` `Databases` `Networks` `Cybersecurity`
 
 ---
 
 # 🔬 Current Focus
 
-I'm currently exploring and building in:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning & Deep Learning
-* ✨ Generative AI
-* 🧩 AI Agents & Automation
-* 🐍 Advanced Python
-* 🌐 Full-Stack Development
-* 🏗️ System Design
-* 📊 Data & ML Engineering
-* 🗄️ Database Engineering
-* 🔐 Cybersecurity
-* 🌍 Networking
-* ☁️ Cloud & DevOps
-* 🔬 AI Research
-* 🧮 Data Structures & Algorithms
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Generative+AI+%E2%9C%A8;AI+Agents+%26+Automation+%F0%9F%A7%A9;Advanced+Python+%F0%9F%90%8D;Full-Stack+Development+%F0%9F%92%BB;System+Design+%F0%9F%8F%97%EF%B8%8F;AI+Research+%F0%9F%94%AC;Cybersecurity+%F0%9F%94%90;Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Current Focus Animation"/>
+</p>
 
 ---
 
@@ -323,21 +340,17 @@ I'm currently exploring and building in:
 
 I'm always interested in working on:
 
-* 🤖 AI/ML projects
-* 🧠 AI research
-* ✨ Generative AI
-* 🧩 AI agents
-* 🐍 Python projects
-* 🚀 SaaS products
-* 🌐 Full-stack applications
-* 🔐 Cybersecurity
-* ☁️ Cloud-native projects
-* 🌍 Open-source projects
-* 🏆 Hackathons
-* 💡 Startup ideas
-* 🔬 Research & innovation
+`AI/ML` `AI Research` `Generative AI` `AI Agents`
 
-**Have an interesting idea? Let's build it. 🚀**
+`Python` `SaaS` `Full-Stack` `Cybersecurity`
+
+`Cloud` `Open Source` `Hackathons` `Startups`
+
+`Research & Innovation`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Have+an+interesting+idea%3F;Let's+build+it+together+%F0%9F%9A%80" alt="Collaboration Animation"/>
+</p>
 
 ---
 
@@ -365,7 +378,19 @@ If you find something useful in my repositories, feel free to **⭐ star the pro
 
 ---
 
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heytarunkumar&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
 # 💭 Developer Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Learn+Deeply.;Build+Consistently.;Research+Fearlessly.;Share+Openly.;Create+Meaningful+Impact.+%F0%9F%9A%80" alt="Developer Philosophy Animation"/>
+</p>
 
 > **Learn deeply. Build consistently. Research fearlessly. Share openly.**
 
@@ -387,14 +412,22 @@ Technology is most valuable when it moves beyond experimentation and creates **p
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7" width="80%"/>
+</p>
+
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy **solving difficult problems, experimenting with AI, building products, writing, organizing communities, mentoring developers, and exploring what happens when technology meets real-world challenges.**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+love+solving+difficult+problems+%F0%9F%A7%A0;I+love+experimenting+with+AI+%F0%9F%A4%96;I+love+building+products+%F0%9F%9A%80;I+love+researching+new+technologies+%F0%9F%94%AC;I+love+building+developer+communities+%F0%9F%8C%90" alt="Fun Fact Animation"/>
 </p>
 
-### 🚀 Build • Research • Innovate • Impact
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling" width="100%"/>
+</p>
+
+<h3 align="center">
+  🚀 Build • Research • Innovate • Impact
+</h3>
