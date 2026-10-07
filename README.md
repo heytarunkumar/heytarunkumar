@@ -1,339 +1,283 @@
-# Hi there 👋, I'm Tarun Kumar
+# Hello Folks 👋, I'm Tarun Kumar
 
-### AI Engineer • Python Developer • Entrepreneur • Researcher • Community Leader
+## 👨🏻‍💻 About Me
 
-I build **AI-powered applications, intelligent systems, software products, APIs, and automation solutions** designed to solve real-world problems.
+* 🚀 I'm **Tarun Kumar**, an **AI Engineer, Python Developer, Technology Entrepreneur, Researcher, and Community Leader** passionate about building AI-powered products, intelligent systems, automation solutions, and scalable software.
 
-My work sits at the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, Software Engineering, Cybersecurity, and Entrepreneurship**. I enjoy turning ideas into practical products, exploring emerging technologies, researching intelligent systems, contributing to open-source ecosystems, and building communities where people can **learn, collaborate, and innovate**.
+* 🏢 I'm the **Founder, Chairman & CEO of Binarize Technologies**, where I work on **Artificial Intelligence, automation, SaaS, IT solutions, software development, and technology-driven business solutions**.
 
----
+* 🌐 I'm the **Founder & President of OrigoHOST**, a technology community focused on developers, students, researchers, innovators, and entrepreneurs through **learning, mentorship, collaboration, research, and practical projects**.
 
-## 🚀 What I Do
+* 🤝 I'm also **Co-Founder & Vice President of Aadvick Foundations**, contributing to initiatives focused on social welfare and community development.
 
-- **AI & Machine Learning** — Building intelligent systems, predictive models, NLP applications, and Generative AI solutions.
-- **Python Engineering** — Developing backend systems, APIs, automation workflows, and AI/ML applications.
-- **Software Engineering** — Creating full-stack applications, SaaS products, developer tools, and scalable software.
-- **AI Research** — Exploring Machine Learning, Deep Learning, Neural Networks, Generative AI, and intelligent automation.
-- **Cybersecurity & Networking** — Exploring secure systems, network technologies, and cybersecurity engineering.
-- **Entrepreneurship** — Building technology products and organizations focused on practical innovation.
-- **Community Leadership** — Organizing technical events, mentoring developers, and creating opportunities for learning and collaboration.
-- **Technical & Creative Writing** — Writing about technology, innovation, decision-making, agriculture, leadership, and practical lessons from real-world experience.
+* 🎓 I'm pursuing my **B.Tech in Computer Science & Engineering**, with a strong focus on **Artificial Intelligence and Machine Learning**.
 
----
+* 🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, NLP, Neural Networks, AI Agents, Automation, and intelligent software systems**.
 
-# 🧠 AI & Machine Learning
+* 🐍 I primarily work with **Python** for AI/ML development, backend engineering, APIs, automation, data processing, and intelligent applications.
 
-My primary technical interests include:
+* 💻 I also work across **Full-Stack Development, Databases, System Design, Cloud, Cybersecurity, and Networking**.
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Generative AI
-- Natural Language Processing
-- Emotion Analysis
-- Predictive Analytics
-- Explainable AI
-- AI Agents & Automation
-- Model Evaluation
-- Feature Engineering
-- Data Preprocessing
+* 🧠 I enjoy turning ideas into **working prototypes, research experiments, products, and real-world solutions**.
 
-### AI / ML Stack
+* 🏆 I've been involved in organizing and contributing to initiatives such as **HackFinity 1.0, TechFest TOONAV 2K24, 0Day Alliance, technical workshops, hackathons, and developer learning programs**.
 
-`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow` `XGBoost` `Random Forest` `SVM` `Neural Networks` `SHAP` `SMOTE`
+* ✍️ I'm also a **published writer**, with work covering technology, agriculture, decision-making, leadership, innovation, and practical learning.
+
+* 📚 I believe in **learning by building, researching by experimenting, and sharing knowledge through projects, communities, and writing**.
+
+* 🌍 **Mission:** Build meaningful technology, create practical impact, and contribute to stronger technology and developer ecosystems.
+
+> **"Build. Research. Innovate. Impact."** 🚀
 
 ---
 
-# 🏥 Featured AI Projects
+# 📊 GitHub Stats
 
-## AI-HealthGuard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudharytarunkumar&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharytarunkumar&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
-An AI-powered **ischemic heart disease risk prediction system** that applies machine learning to healthcare risk assessment.
+---
 
-The project explores multiple approaches and techniques, including:
+# 🎯 Expertise Areas
 
-- XGBoost
-- Random Forest
-- Support Vector Machine
-- Neural Networks
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-- Explainable AI
+| Area                           | Focus                                                            |
+| ------------------------------ | ---------------------------------------------------------------- |
+| 🤖 **Artificial Intelligence** | AI, Generative AI, AI Agents, Intelligent Automation             |
+| 🧠 **Machine Learning**        | Predictive Modeling, Classification, Feature Engineering         |
+| 🔬 **Deep Learning**           | Neural Networks, Model Training & Evaluation                     |
+| 💬 **NLP**                     | Natural Language Processing, Emotion Analysis, Conversational AI |
+| 💻 **Software Engineering**    | Full-Stack Development, Backend, APIs, SaaS                      |
+| 🐍 **Python Development**      | AI/ML, Backend, Automation, Data Processing                      |
+| 🗄️ **Database Engineering**   | Relational & NoSQL Databases                                     |
+| 🔐 **Cybersecurity**           | Security Concepts, Networks, Secure Systems                      |
+| ☁️ **Cloud & DevOps**          | Deployment, Docker, Linux, Cloud Platforms                       |
+| 🌐 **Community & Leadership**  | Hackathons, Workshops, Mentorship, Developer Communities         |
+| ✍️ **Writing & Research**      | Technology, AI, Innovation, Leadership & Practical Learning      |
 
-> An applied AI/ML project exploring how predictive modeling can support data-driven health-risk assessment.
+---
+
+# 🔨 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+</p>
+
+`REST APIs` `API Integration` `Backend Development` `Automation`
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
+
+### 🤖 AI / ML & Data Science
+
+`TensorFlow` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks`
+
+`NumPy` `Pandas` `SHAP` `SMOTE` `Jupyter` `Google Colab`
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
+</p>
+
+---
+
+# 🚀 Projects Highlights
+
+## 🏥 AI-HealthGuard
+
+**AI-powered ischemic heart disease risk prediction system**
+
+Built to explore the application of machine learning to healthcare risk assessment.
+
+### Highlights
+
+* Machine learning-based risk prediction
+* Multiple model comparison
+* XGBoost
+* Random Forest
+* SVM
+* Neural Networks
+* Data preprocessing
+* Feature engineering
+* Model evaluation
+* Explainable AI using SHAP
+* Class-balancing techniques using SMOTE
 
 ---
 
 ## 🧠 AI Mental Health Chatbot
 
-An AI-powered conversational system that combines **NLP, Generative AI, emotion analysis, and modern AI APIs**.
+An AI-powered conversational application combining **NLP, Generative AI, emotion analysis, and modern AI APIs**.
 
-Technologies and concepts include:
+### Highlights
 
-- Python
-- NLP
-- OpenAI API
-- Gemini API
-- Emotion detection
-- Context-aware conversations
-- Text-to-speech
-- AI-powered response generation
-
----
-
-# 💻 Software Engineering
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | `Python` `C++` `Java` `JavaScript` `TypeScript` |
-| **Frontend** | `HTML` `CSS` `JavaScript` `React` `Next.js` `TypeScript` |
-| **Backend & APIs** | `Python` `Flask` `Node.js` `REST APIs` `API Integration` |
-| **AI / Application Frameworks** | `Streamlit` `TensorFlow` `Scikit-learn` |
-| **Databases** | `MySQL` `PostgreSQL` `MongoDB` `Supabase` |
-| **Engineering & DevOps** | `Git` `GitHub` `Docker` `Linux` `Vercel` `Cloud` `System Design` |
+* NLP-based interaction
+* Emotion analysis
+* OpenAI API integration
+* Gemini API integration
+* Context-aware responses
+* Conversational AI
+* Text-to-speech
 
 ---
 
-# 🏢 Entrepreneurship
+# 🤖 AI & Machine Learning Development
 
-## Binarize Technologies
+* 🧠 Build and evaluate Machine Learning models for prediction and classification.
+* 📊 Work with datasets through preprocessing, feature engineering, balancing, and analysis.
+* 🔬 Experiment with different algorithms and compare model performance.
+* 💬 Develop NLP and conversational AI applications.
+* ✨ Explore Generative AI and AI-powered automation.
+* 🔌 Integrate AI models and APIs into real-world applications.
+* 🚀 Focus on moving AI systems from **experimentation to usable products**.
+
+---
+
+# 🏢 Entrepreneurship & Organizations
+
+### Binarize Technologies
 
 **Founder, Chairman & CEO**
 
-Building technology solutions and products around:
+Working on technology solutions across:
 
-- Artificial Intelligence
-- AI-powered automation
-- SaaS
-- IT solutions
-- IT consulting
-- Business consulting
-- Software development
-- Technology-driven business solutions
+* Artificial Intelligence
+* Automation
+* SaaS
+* IT Solutions
+* Software Development
+* IT Consulting
+* Business Consulting
 
----
-
-# 🌐 Community Leadership
-
-## OrigoHOST
+### OrigoHOST
 
 **Founder & President**
 
-A technology community creating an ecosystem for developers, students, researchers, and technology enthusiasts.
+A technology community focused on:
 
-Key focus areas:
+* Developer education
+* Practical project-based learning
+* Mentorship
+* Research
+* Open collaboration
+* Entrepreneurship
+* Innovation
 
-- Practical, project-based learning
-- Developer education
-- Mentorship
-- Industry connections
-- Research
-- Open collaboration
-- Knowledge sharing
-- Leadership development
-- Entrepreneurship
-- Innovation
-
-**🌟 5,000+ community members**
-
----
-
-## Aadvick Foundations
+### Aadvick Foundations
 
 **Co-Founder & Vice President**
 
-Contributing to initiatives focused on **social welfare, community development, and positive social impact**.
+Contributing to initiatives focused on social welfare and community development.
 
 ---
 
-# 👨‍💻 Developer & Community Experience
+# 🏆 Community & Leadership
 
-I have contributed to technology communities through:
+I've been involved in:
 
-- Technical workshops
-- Coding sessions
-- DSA sessions
-- AI/ML learning programs
-- Hackathons
-- Developer mentoring
-- Internship guidance
-- Resume preparation
-- Technical interview preparation
-- Community-building initiatives
+* 🏆 **HackFinity 1.0**
+* 💻 **TechFest TOONAV 2K24**
+* 🔐 **0Day Alliance**
+* 👨‍💻 Technical workshops
+* 🧠 AI/ML sessions
+* 🧮 DSA sessions
+* 🚀 Hackathons
+* 🌐 Developer communities
+* 🎓 Student mentoring
+* 💼 Internship & interview guidance
 
-I have also been involved with student and developer communities including **GeeksforGeeks Campus**, **0Day Alliance**, and other technology initiatives.
-
----
-
-# 🏆 Events & Initiatives
-
-### HackFinity 1.0
-
-A technology and hackathon initiative involving:
-
-- Event planning
-- Technical coordination
-- Developer participation
-- Community engagement
-- Innovation-focused activities
-
-### TechFest TOONAV 2K24
-
-Contributed to organizing and coordinating technology-focused activities for students and developers.
-
-### 0Day Alliance
-
-Participated in technology and cybersecurity-oriented community initiatives.
+My community work focuses on helping developers **learn, build, collaborate, and grow**.
 
 ---
 
 # 📚 Publications & Writing
 
-I write about **technology, artificial intelligence, innovation, agriculture, decision-making, leadership, human behavior, and practical lessons from real-world experience**.
+I also explore technology and ideas through writing.
 
-### 📝 Published Works
-
-#### 🌱 Forest By Algorithm
+### 🌱 Forest By Algorithm
 
 **KhetiValah Global Agri Magazine — June 2026**
 
-An exploration of the intersection of **algorithms, artificial intelligence, technology, and agriculture**, examining how computational approaches can contribute to modern agricultural systems.
-
-**Topics:** `AI` `Algorithms` `Agriculture` `Technology` `Innovation`
+Explores the intersection of **algorithms, technology, AI, and agriculture**, and how computational approaches can contribute to modern agricultural systems.
 
 ---
 
-#### 🏹 Arjuna: The Pause Before Action
+### 🏹 Arjuna: The Pause Before Action
 
 **Amazon Kindle — January 2026**
 
-A reflective work on **thoughtful decision-making, self-awareness, action, consequence, and the importance of pausing before making critical decisions**.
-
-**Topics:** `Decision Making` `Leadership` `Self-Reflection` `Human Behavior`
+A reflective work exploring **decision-making, self-awareness, action, consequence, and thoughtful thinking**.
 
 ---
 
-#### 💡 What Actually Worked Vs What Sounded Good
+### 💡 What Actually Worked Vs What Sounded Good
 
 **Amazon Kindle — January 2026**
 
-A practical reflection on the difference between **ideas that sound promising and approaches that actually work**, emphasizing experimentation, execution, learning, and real-world outcomes.
-
-**Topics:** `Technology` `Execution` `Experimentation` `Learning` `Innovation`
+A practical reflection on the difference between **ideas that sound good and approaches that actually work**, emphasizing experimentation, execution, learning, and real-world outcomes.
 
 ---
 
-### ✍️ Writing Philosophy
+# 💭 Developer Quote
 
-> **Ideas become valuable when they are tested, refined, and transformed into something that creates real-world impact.**
-
-Through writing, I document ideas, explore emerging technologies, share lessons, and encourage practical thinking beyond theory.
+> **"Don't just learn technology. Build with it, research it, share it, and use it to create impact."** 🚀
 
 ---
 
-# 🎓 Education
+# 🌍 Contribution & Open Source
 
-## Bachelor of Technology — Computer Science & Engineering
+I use GitHub to:
 
-**Dr. A.P.J. Abdul Kalam Technical University**
+* Build AI/ML projects
+* Experiment with emerging technologies
+* Publish software and research experiments
+* Document my learning
+* Contribute to open-source projects
+* Collaborate with developers and researchers
+* Build practical solutions
 
-Academic interests include:
-
-- Computer Science
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- Data Structures & Algorithms
-- Database Systems
-- Computer Networks
-- Cybersecurity
+**Let's build something impactful together! 🤝**
 
 ---
 
-# 🎯 Current Focus
+# ❤️ Let's Get Connected
 
-I'm currently focused on advancing my capabilities in:
-
-- rtificial Intelligence
-- Machine Learning & Deep Learning
-- Generative AI
-- AI Agents & Automation
-- Advanced Python Engineering
-- Full-Stack Development
-- System Design
-- Data & ML Engineering
-- Database Engineering
-- Cybersecurity
-- Networking
-- Cloud & DevOps
-- AI Research
-- Data Structures & Algorithms
+<p align="center">
+  <a href="https://www.linkedin.com/in/heytarunkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarun%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://heytarunkumar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-heytarunkumar.vercel.app-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:imtarunchaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-# 🤝 Open to Collaboration
+## ⚡ Fun Fact
 
-I'm interested in collaborating on:
+I enjoy **solving difficult problems, experimenting with AI, building products, writing, mentoring developers, organizing communities, and exploring what happens when technology meets real-world challenges.**
 
-- AI/ML projects
-- AI research
-- Generative AI applications
-- AI agents and automation
-- Python projects
-- Full-stack applications
-- SaaS products
-- Open-source software
-- Cybersecurity projects
-- Cloud-native technologies
-- Hackathons
-- Developer communities
-- Startup & technology ventures
-- Research and innovation initiatives
-
-**If you're building something meaningful with technology, let's build it together.**
-
----
-
-# 💬 Ask Me About
-
-**Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Python · NLP · Neural Networks · AI APIs · Full-Stack Development · SaaS · Cybersecurity · Networking · Databases · System Design · DSA · Open Source · Hackathons · Developer Communities · Entrepreneurship**
-
----
-
-# 📊 What You'll Find Here
-
-This GitHub profile documents my journey through:
-
-- AI & ML experiments
-- Software projects
-- Research & technical experiments
-- Product development
-- Open-source contributions
-- Security & networking exploration
-- Prototypes and proofs of concept
-- Learning resources
-- Technical ideas and documentation
-
----
-
-# 📫 Connect With Me
-
-- **Email:** [tarunsinghchaudharyy@gmail.com](mailto:tarunsinghchaudharyy@gmail.com)
-- **LinkedIn:** [Tarun Kumar](https://www.linkedin.com/in/heytarunkumar/)
-- **Portfolio:** [heytarunkumar.vercel.app](https://heytarunkumar.vercel.app/)
-- **GitHub:** [heytarunkumar](https://github.com/heytarunkumar)
-
----
-
-# ⚡ Beyond Code
-
-I enjoy **solving difficult problems, researching emerging technologies, building intelligent systems, developing products, writing, mentoring developers, organizing communities, and exploring new possibilities with technology**.
-
-I believe technology becomes truly valuable when it moves beyond experimentation and creates **practical, measurable, and meaningful impact**.
-
-> **Build. Research. Innovate. Impact.**
-
----
-
-⭐ **Explore my repositories, follow my work, and let's build the future with technology.**
+### 🚀 Build • Research • Innovate • Impact
