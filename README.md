@@ -1,34 +1,40 @@
 # Hello Folks 👋, I'm Tarun Kumar
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Technology+Entrepreneur;AI%2FML+Engineer+%7C+Researcher;Python+Developer+%7C+Full-Stack+Developer;Founder+%7C+Community+Leader;Build.+Research.+Innovate.+Impact.+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heytarunkumar&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/heytarunkumar?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/heytarunkumar?label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars"/>
+</p>
+
+---
+
 ## 👨🏻‍💻 About Me
 
-* 🚀 I'm **Tarun Kumar**, an **AI Engineer, Python Developer, Technology Entrepreneur, Researcher, and Community Leader** passionate about building AI-powered products, intelligent systems, automation solutions, and scalable software.
+* 🚀 I'm **Tarun Kumar**, an **AI Engineer, Technology Entrepreneur, Researcher, and Community Leader** passionate about building AI-powered products, intelligent systems, automation solutions, and scalable software that solve real-world problems.
 
-* 🏢 I'm the **Founder, Chairman & CEO of Binarize Technologies**, where I work on **Artificial Intelligence, automation, SaaS, IT solutions, software development, and technology-driven business solutions**.
+* 🏢 I'm the **Founder, Chairman & CEO of Binarize Technologies**, where I focus on building technology solutions around **AI, automation, SaaS, IT solutions, and technology-driven business development**.
 
-* 🌐 I'm the **Founder & President of OrigoHOST**, a technology community focused on developers, students, researchers, innovators, and entrepreneurs through **learning, mentorship, collaboration, research, and practical projects**.
+* 🌐 I'm the **Founder & President of OrigoHOST**, a technology community focused on empowering developers, students, researchers, and innovators through **learning, mentorship, collaboration, research, and practical project development**.
 
-* 🤝 I'm also **Co-Founder & Vice President of Aadvick Foundations**, contributing to initiatives focused on social welfare and community development.
+* 🤝 I'm also **Co-Founder & Vice President of Aadvick Foundations**, contributing to initiatives focused on social welfare and community impact.
 
-* 🎓 I'm pursuing my **B.Tech in Computer Science & Engineering**, with a strong focus on **Artificial Intelligence and Machine Learning**.
+* 🤖 My core interests include **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, NLP, Neural Networks, AI Agents, Automation, and intelligent software systems**.
 
-* 🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, NLP, Neural Networks, AI Agents, Automation, and intelligent software systems**.
+* 🐍 I work extensively with **Python** for AI/ML development, backend engineering, automation, data processing, and intelligent application development.
 
-* 🐍 I primarily work with **Python** for AI/ML development, backend engineering, APIs, automation, data processing, and intelligent applications.
+* 💻 I also work across **Full-Stack Development, APIs, databases, system design, cloud technologies, cybersecurity, and networking**.
 
-* 💻 I also work across **Full-Stack Development, Databases, System Design, Cloud, Cybersecurity, and Networking**.
+* 🧠 I enjoy researching emerging technologies and turning theoretical concepts into **working prototypes, products, experiments, and real-world applications**.
 
-* 🧠 I enjoy turning ideas into **working prototypes, research experiments, products, and real-world solutions**.
+* 📚 I believe in **learning by building, researching by experimenting, and sharing knowledge through communities, projects, and writing**.
 
-* 🏆 I've been involved in organizing and contributing to initiatives such as **HackFinity 1.0, TechFest TOONAV 2K24, 0Day Alliance, technical workshops, hackathons, and developer learning programs**.
+* 🌍 My goal is to build technology that creates **meaningful real-world impact**, while helping create stronger developer and innovation ecosystems.
 
-* ✍️ I'm also a **published writer**, with work covering technology, agriculture, decision-making, leadership, innovation, and practical learning.
-
-* 📚 I believe in **learning by building, researching by experimenting, and sharing knowledge through projects, communities, and writing**.
-
-* 🌍 **Mission:** Build meaningful technology, create practical impact, and contribute to stronger technology and developer ecosystems.
-
-> **"Build. Research. Innovate. Impact."** 🚀
+> **"Build. Research. Innovate. Impact." 🚀**
 
 ---
 
@@ -39,186 +45,228 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytarunkumar&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heytarunkumar&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 ---
 
 # 🎯 Expertise Areas
 
-| Area                           | Focus                                                            |
-| ------------------------------ | ---------------------------------------------------------------- |
-| 🤖 **Artificial Intelligence** | AI, Generative AI, AI Agents, Intelligent Automation             |
-| 🧠 **Machine Learning**        | Predictive Modeling, Classification, Feature Engineering         |
-| 🔬 **Deep Learning**           | Neural Networks, Model Training & Evaluation                     |
-| 💬 **NLP**                     | Natural Language Processing, Emotion Analysis, Conversational AI |
-| 💻 **Software Engineering**    | Full-Stack Development, Backend, APIs, SaaS                      |
-| 🐍 **Python Development**      | AI/ML, Backend, Automation, Data Processing                      |
-| 🗄️ **Database Engineering**   | Relational & NoSQL Databases                                     |
-| 🔐 **Cybersecurity**           | Security Concepts, Networks, Secure Systems                      |
-| ☁️ **Cloud & DevOps**          | Deployment, Docker, Linux, Cloud Platforms                       |
-| 🌐 **Community & Leadership**  | Hackathons, Workshops, Mentorship, Developer Communities         |
-| ✍️ **Writing & Research**      | Technology, AI, Innovation, Leadership & Practical Learning      |
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Generative AI
+* Natural Language Processing
+* Computer Intelligence
+* Predictive Analytics
+* Explainable AI
+* AI Agents
+* Intelligent Automation
+* Model Evaluation
+* Feature Engineering
+* Data Preprocessing
+
+### 💻 Software Engineering
+
+* Full-Stack Development
+* Backend Development
+* API Development
+* REST APIs
+* SaaS Development
+* System Design
+* Software Architecture
+* Automation
+* Database Engineering
+
+### 🔐 Security & Infrastructure
+
+* Cybersecurity
+* Network Engineering
+* Linux
+* Cloud Technologies
+* DevOps
+* Application Security
+
+### 🌐 Community & Leadership
+
+* Developer Communities
+* Technical Workshops
+* Hackathons
+* Mentorship
+* DSA Sessions
+* AI/ML Workshops
+* Technology Events
+* Open-Source Collaboration
+* Entrepreneurship
 
 ---
 
-# 🔨 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=5" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&perline=6" />
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs&perline=3" />
 </p>
 
 `REST APIs` `API Integration` `Backend Development` `Automation`
 
-### 🗄️ Database
+### 🤖 AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=3" />
 </p>
 
-### 🤖 AI / ML & Data Science
+`TensorFlow` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks` `NLP`
 
-`TensorFlow` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks`
+### 📊 Data & AI Tools
 
 `NumPy` `Pandas` `SHAP` `SMOTE` `Jupyter` `Google Colab`
 
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=4" />
+</p>
+
 ### ☁️ DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel&perline=5" />
 </p>
 
 ---
 
-# 🚀 Projects Highlights
+# 🧠 AI / ML Development
+
+I work on AI/ML systems across the complete development lifecycle:
+
+* Dataset preprocessing
+* Exploratory data analysis
+* Feature engineering
+* Model development
+* Model comparison
+* Hyperparameter tuning
+* Model evaluation
+* Explainable AI
+* API integration
+* Application deployment
+
+I'm particularly interested in taking AI models beyond notebooks and integrating them into **usable applications and real-world products**.
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏥 AI-HealthGuard
 
-**AI-powered ischemic heart disease risk prediction system**
+An AI-powered **ischemic heart disease risk prediction system** focused on applying machine learning to healthcare risk assessment.
 
-Built to explore the application of machine learning to healthcare risk assessment.
+### Technologies & Concepts
 
-### Highlights
+`Python` `Scikit-learn` `XGBoost` `Random Forest` `SVM` `Neural Networks` `SHAP` `SMOTE`
 
-* Machine learning-based risk prediction
-* Multiple model comparison
-* XGBoost
-* Random Forest
-* SVM
-* Neural Networks
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-* Explainable AI using SHAP
-* Class-balancing techniques using SMOTE
+The project explores predictive modeling, model evaluation, explainability, and practical AI application development.
 
 ---
 
 ## 🧠 AI Mental Health Chatbot
 
-An AI-powered conversational application combining **NLP, Generative AI, emotion analysis, and modern AI APIs**.
+An AI-powered conversational application exploring **NLP, Generative AI, emotion analysis, and AI APIs**.
 
-### Highlights
+### Technologies & Concepts
 
-* NLP-based interaction
-* Emotion analysis
-* OpenAI API integration
-* Gemini API integration
-* Context-aware responses
-* Conversational AI
-* Text-to-speech
+`Python` `NLP` `OpenAI API` `Gemini API` `Emotion Analysis` `Text-to-Speech`
+
+The project explores conversational AI and intelligent user interaction through modern AI technologies.
 
 ---
 
-# 🤖 AI & Machine Learning Development
+# 🏢 Organizations
 
-* 🧠 Build and evaluate Machine Learning models for prediction and classification.
-* 📊 Work with datasets through preprocessing, feature engineering, balancing, and analysis.
-* 🔬 Experiment with different algorithms and compare model performance.
-* 💬 Develop NLP and conversational AI applications.
-* ✨ Explore Generative AI and AI-powered automation.
-* 🔌 Integrate AI models and APIs into real-world applications.
-* 🚀 Focus on moving AI systems from **experimentation to usable products**.
-
----
-
-# 🏢 Entrepreneurship & Organizations
-
-### Binarize Technologies
+## Binarize Technologies
 
 **Founder, Chairman & CEO**
 
-Working on technology solutions across:
+Technology initiatives focused on:
 
-* Artificial Intelligence
-* Automation
+* AI & Automation
 * SaaS
 * IT Solutions
-* Software Development
 * IT Consulting
 * Business Consulting
+* Software Development
 
-### OrigoHOST
+---
+
+## OrigoHOST
 
 **Founder & President**
 
-A technology community focused on:
+A technology community with **5,000+ members**, focused on:
 
 * Developer education
-* Practical project-based learning
+* Practical learning
 * Mentorship
 * Research
 * Open collaboration
+* Knowledge sharing
+* Leadership
 * Entrepreneurship
 * Innovation
 
-### Aadvick Foundations
+---
+
+## Aadvick Foundations
 
 **Co-Founder & Vice President**
 
-Contributing to initiatives focused on social welfare and community development.
+Working toward initiatives involving **social welfare and community development**.
 
 ---
 
 # 🏆 Community & Leadership
 
-I've been involved in:
+I've been involved in organizing and contributing to technology initiatives including:
 
 * 🏆 **HackFinity 1.0**
 * 💻 **TechFest TOONAV 2K24**
 * 🔐 **0Day Alliance**
-* 👨‍💻 Technical workshops
-* 🧠 AI/ML sessions
+* 👨‍💻 Developer workshops
+* 🧠 AI/ML learning sessions
 * 🧮 DSA sessions
 * 🚀 Hackathons
-* 🌐 Developer communities
-* 🎓 Student mentoring
-* 💼 Internship & interview guidance
+* 🌐 Community-building programs
 
-My community work focuses on helping developers **learn, build, collaborate, and grow**.
+I've also contributed to developer education through mentoring, technical sessions, internship guidance, resume preparation, and interview preparation.
 
 ---
 
 # 📚 Publications & Writing
 
-I also explore technology and ideas through writing.
+I also write and publish work around **technology, innovation, agriculture, decision-making, leadership, human behavior, and practical learning**.
 
 ### 🌱 Forest By Algorithm
 
 **KhetiValah Global Agri Magazine — June 2026**
 
-Explores the intersection of **algorithms, technology, AI, and agriculture**, and how computational approaches can contribute to modern agricultural systems.
+Explores the intersection of **algorithms, technology, AI, and agriculture** and the potential of computational approaches in modern agricultural systems.
 
 ---
 
@@ -238,29 +286,94 @@ A practical reflection on the difference between **ideas that sound good and app
 
 ---
 
-# 💭 Developer Quote
+# 🎓 Education
 
-> **"Don't just learn technology. Build with it, research it, share it, and use it to create impact."** 🚀
+### Bachelor of Technology — Computer Science & Engineering
+
+**Dr. A.P.J. Abdul Kalam Technical University**
+
+Areas of interest:
+
+`Computer Science` `Artificial Intelligence` `Machine Learning` `Software Engineering` `DSA` `Databases` `Networks` `Cybersecurity`
 
 ---
 
-# 🌍 Contribution & Open Source
+# 🔬 Current Focus
+
+I'm currently exploring and building in:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* ✨ Generative AI
+* 🧩 AI Agents & Automation
+* 🐍 Advanced Python
+* 🌐 Full-Stack Development
+* 🏗️ System Design
+* 📊 Data & ML Engineering
+* 🗄️ Database Engineering
+* 🔐 Cybersecurity
+* 🌍 Networking
+* ☁️ Cloud & DevOps
+* 🔬 AI Research
+* 🧮 Data Structures & Algorithms
+
+---
+
+# 🤝 Open to Collaboration
+
+I'm always interested in working on:
+
+* 🤖 AI/ML projects
+* 🧠 AI research
+* ✨ Generative AI
+* 🧩 AI agents
+* 🐍 Python projects
+* 🚀 SaaS products
+* 🌐 Full-stack applications
+* 🔐 Cybersecurity
+* ☁️ Cloud-native projects
+* 🌍 Open-source projects
+* 🏆 Hackathons
+* 💡 Startup ideas
+* 🔬 Research & innovation
+
+**Have an interesting idea? Let's build it. 🚀**
+
+---
+
+# 🌍 Open Source & GitHub
 
 I use GitHub to:
 
-* Build AI/ML projects
-* Experiment with emerging technologies
-* Publish software and research experiments
-* Document my learning
-* Contribute to open-source projects
-* Collaborate with developers and researchers
-* Build practical solutions
+* Build and experiment with new ideas
+* Develop AI/ML projects
+* Publish software
+* Document technical experiments
+* Explore emerging technologies
+* Collaborate with developers
+* Contribute to open-source ecosystems
 
-**Let's build something impactful together! 🤝**
+If you find something useful in my repositories, feel free to **⭐ star the project, fork it, experiment with it, or contribute**.
 
 ---
 
-# ❤️ Let's Get Connected
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> **Learn deeply. Build consistently. Research fearlessly. Share openly.**
+
+Technology is most valuable when it moves beyond experimentation and creates **practical, measurable, and meaningful impact**.
+
+---
+
+# ❤️ Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heytarunkumar/">
@@ -278,6 +391,10 @@ I use GitHub to:
 
 ## ⚡ Fun Fact
 
-I enjoy **solving difficult problems, experimenting with AI, building products, writing, mentoring developers, organizing communities, and exploring what happens when technology meets real-world challenges.**
+I enjoy **solving difficult problems, experimenting with AI, building products, writing, organizing communities, mentoring developers, and exploring what happens when technology meets real-world challenges.**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+</p>
 
 ### 🚀 Build • Research • Innovate • Impact
