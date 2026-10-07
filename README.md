@@ -9,6 +9,18 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1yJUoeiLWA6SvvglSZJFUiZrNBeMhZ4_R"
+    alt="Tarun Kumar"
+    width="230"
+  />
+</p>
+
+<p align="center">
+  <b>AI Engineer • Technology Entrepreneur • Researcher • Community Leader</b>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=heytarunkumar&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/heytarunkumar?label=FOLLOWERS&style=for-the-badge&color=36BCF7" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/heytarunkumar?label=STARS&style=for-the-badge&color=36BCF7" alt="Stars"/>
@@ -24,7 +36,7 @@
 
 * 🚀 I'm **Tarun Kumar**, an **AI Engineer, Technology Entrepreneur, Researcher, and Community Leader** passionate about building AI-powered products, intelligent systems, automation solutions, and scalable software that solve real-world problems.
 
-* 🏢 I'm the **Founder & Chairman of Binarize Technologies**, where I focus on building technology solutions around **AI, automation, SaaS, IT solutions, and technology-driven business development**.
+* 🏢 I'm the **Founder, Chairman & CEO of Binarize Technologies**, where I focus on building technology solutions around **AI, automation, SaaS, IT solutions, and technology-driven business development**.
 
 * 🌐 I'm the **Founder & President of OrigoHOST**, a technology community focused on empowering developers, students, researchers, and innovators through **learning, mentorship, collaboration, research, and practical project development**.
 
@@ -410,10 +422,6 @@ Technology is most valuable when it moves beyond experimentation and creates **p
   <a href="mailto:imtarunchaudhary@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7" width="80%"/>
 </p>
 
 ---
