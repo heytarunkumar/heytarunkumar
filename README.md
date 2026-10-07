@@ -135,7 +135,7 @@ I'm particularly interested in creating environments where developers can **lear
 * 📧 **Email:** [tarunsinghchaudharyy@gmail.com](mailto:tarunsinghchaudharyy@gmail.com)
 * 💼 **LinkedIn:** [Tarun Kumar](https://www.linkedin.com/in/heytarunkumar/)
 * 🌐 **Portfolio:** [Explore my Portfolio](https://heytarunkumar.vercel.app)
-* 💬 **WhatsApp:** [Connect with me](https://wa.me/message/+919027806285)
+* 💬 **WhatsApp:** [Connect with me](https://wa.me/+919027806285)
 
 ---
 
