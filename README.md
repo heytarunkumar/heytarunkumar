@@ -24,7 +24,7 @@
 
 * 🚀 I'm **Tarun Kumar**, an **AI Engineer, Technology Entrepreneur, Researcher, and Community Leader** passionate about building AI-powered products, intelligent systems, automation solutions, and scalable software that solve real-world problems.
 
-* 🏢 I'm the **Founder & Chairman of Binarize Technologies**, where I focus on building technology solutions around **AI, automation, SaaS, IT solutions, and technology-driven business development**.
+<!--* 🏢 I'm the **Founder & Chairman of Binarize Technologies**, where I focus on building technology solutions around **AI, automation, SaaS, IT solutions, and technology-driven business development**.-->
 
 * 🌐 I'm the **Founder & President of OrigoHOST**, a technology community focused on empowering developers, students, researchers, and innovators through **learning, mentorship, collaboration, research, and practical project development**.
 
