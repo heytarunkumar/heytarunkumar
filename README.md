@@ -235,7 +235,7 @@ An AI-powered conversational application exploring **NLP, Generative AI, emotion
 
 # 🏢 Organizations
 
-### 🚀 Binarize Technologies
+<!--### 🚀 Binarize Technologies
 
 **Founder, Chairman & CEO**
 
@@ -245,7 +245,7 @@ Technology initiatives focused on:
 
 `IT Consulting` `Business Consulting` `Software Development`
 
----
+--> 
 
 ### 🌐 OrigoHOST
 
